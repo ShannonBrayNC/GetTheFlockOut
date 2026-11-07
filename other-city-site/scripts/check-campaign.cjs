@@ -1,14 +1,2 @@
-const assert=require('node:assert/strict');
-const fs=require('node:fs');
-const ts=require('typescript');
-const out=ts.transpileModule(fs.readFileSync('app/campaign.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText;
-const exportsObject={};new Function('exports',out)(exportsObject);const c=exportsObject.campaign;
-const email=x=>typeof x==='string'&&/^[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+$/.test(x)&&!/[\r\n]/.test(x);
-assert(c.city&&c.state&&c.governmentName&&c.senderName);
-assert(/^[a-z][a-z0-9-]*$/.test(c.slug));assert.equal(c.hostname,c.slug+'.nomoreflock.org');
-assert(email(c.senderAddress));assert(email(c.organizerContact));
-assert(c.monitoringRecipients.every(email));assert.equal(new Set(c.monitoringRecipients).size,c.monitoringRecipients.length);
-assert(c.officials.length);assert.equal(new Set(c.officials.map(o=>o.id)).size,c.officials.length);
-assert(c.officials.every(o=>/^[a-z0-9-]+$/.test(o.id)&&o.name&&o.role&&email(o.email)));
-if(c.slug!=='angier')assert(!c.officials.some(o=>o.email.endsWith('@angier.org')),'Replace Angier recipients before deploying another city');
-console.log('PASS campaign setup: jurisdiction, hostname, sender, unique officials and monitoring recipients.');
+// Other City is an interest register and has no campaign or official recipients.
+require('../tests/registry.cjs');

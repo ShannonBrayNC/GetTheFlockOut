@@ -20,8 +20,8 @@
     "status": "ended",
     "date": "2026-05-11",
     "note": "Board voted to terminate the contract and requested equipment deactivation and removal by July 1. Physical removal has not been independently confirmed here.",
-    "url": "https://www.wral.com/news/local/pittsboro-terminates-flock-camera-contract-may-2026/",
-    "source": "WRAL \u00b7 May 13, 2026",
+    "url": "https://chapelboro.com/news/local-government/pittsboro-commissioners-vote-to-end-flock-safety-contract-early-citing-community-opposition",
+    "source": "Chapelboro \u00b7 May 13, 2026",
     "checked": "2026-11-06",
     "hasCitizenEffort": false
   },
@@ -290,7 +290,7 @@
     "source": "Town meeting summary \u00b7 February 17, 2026",
     "checked": "2026-11-06",
     "hasCitizenEffort": true,
-    "campaignUrl": "https://wake-forest-no-more-flock.lanternprotocol.chatgpt.site",
+    "campaignUrl": "https://wake-forest.nomoreflock.org",
     "campaignSummary": "Town Flock program, documented public comments, local meeting proposal and an independent privacy petition.",
     "county": "Wake / Franklin counties"
   },
@@ -306,7 +306,7 @@
     "source": "r/DeFlockNC \u00b7 October roundup",
     "checked": "2026-11-06",
     "hasCitizenEffort": true,
-    "campaignUrl": "https://selma-no-more-flock.lanternprotocol.chatgpt.site",
+    "campaignUrl": "https://selma.nomoreflock.org",
     "county": "Johnston County"
   },
   {
@@ -321,7 +321,7 @@
     "source": "DeFlockILM; WHQR \u00b7 September 15, 2026",
     "checked": "2026-11-06",
     "hasCitizenEffort": true,
-    "campaignUrl": "https://wilmington-no-more-flock.lanternprotocol.chatgpt.site",
+    "campaignUrl": "https://wilmington.nomoreflock.org",
     "campaignSummary": "Wilmington petition, DeFlockILM resources and city/county distinctions. Indirect ALPR access and future adoption\u2014not an assumed city Flock contract.",
     "county": "New Hanover County"
   },
@@ -416,7 +416,7 @@
     "lon": -78.6761,
     "status": "effort",
     "date": "2026-08-12",
-    "note": "ABC11 documented resident opposition and Chief Jonathan Johnson\u2019s support for Flock. A No More Flock community petition page is available; email activation is pending sender setup. No cancellation is established.",
+    "note": "ABC11 documented resident opposition and Chief Jonathan Johnson\u2019s support for Flock. A No More Flock community petition is available; official notifications require organizer residency review. No cancellation is established.",
     "url": "https://abc11.com/post/flock-cameras-draw-intense-debate-personal-privacy-public-safety-citizens-clash-law-enforcement-nc/19669634/",
     "source": "ABC11 \u00b7 Erwin reporting",
     "checked": "2026-11-06",

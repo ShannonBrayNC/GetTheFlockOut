@@ -10,11 +10,11 @@ Complete source snapshot for the North Carolina community petition network.
 - nc-flock-tracker: statewide map, directory, shared-source checks
 - operations-site: owner-private monitoring and encrypted backups
 
-See each project's README.md, OPERATIONS.md, research.json and tests. This repository is source control, not a replacement for Sites runtime storage.
+See [the technical/content review](REVIEW-20261106.md), each project's README.md, OPERATIONS.md, research.json and tests. This repository is source control, not a replacement for Sites runtime storage.
 
 ## Running
 
-Within a city directory, install with npm ci, validate with node scripts/check-campaign.cjs, run tests/*.cjs except load.cjs, and run npx tsc --noEmit. Build with npm run build. D1 schema migrations are in drizzle/. Native Sites helpers are required for source synchronization and production packaging; preserve .openai/hosting.json identities. Do not publish the operations site publicly.
+Within each application directory, install locked dependencies with npm ci. From the repository root, run `node scripts/review-network.cjs` to check all eight petitions, Other City and shared source. The November 6 Eastern review completed 102 checks successfully. Build an application with npm run build. D1 schema migrations are in drizzle/. Native Sites helpers are required for source synchronization and production packaging; preserve .openai/hosting.json identities. Do not publish the operations site publicly.
 
 ## Privacy and operation
 
@@ -36,3 +36,7 @@ Statewide entries distinguish verified cancellations from reported citizen effor
 6. Keep automated maintenance dry-run only; do not release queues through health jobs.
 
 Each city's .openai/hosting.json identifies its existing deployment. Changes to this GitHub repository do not automatically redeploy Sites. Export changes back through the Sites source workflow and retain exact source/build provenance.
+
+## November 6 Eastern technical/content review
+
+All eight city public APIs reported signingReady=true and mailReady=true. Wilmington custom-domain routing was refreshed and verified; updated city links, source attribution and residency-queue wording were published. Other City remains a separate no-email interest register. The review used fixtures and read-only production inspection; no test signatures or official emails were created. See [REVIEW-20261106.md](REVIEW-20261106.md) for the city matrix, fixes, sources, deployment provenance and verification limits, including inbox/webhook, real sign-in and source-record follow-up.
