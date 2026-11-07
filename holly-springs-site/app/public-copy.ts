@@ -1,0 +1,4 @@
+export const version = '2026-11-06-hs-v1';
+export const consentVersion = '2026-11-06-hs-consent-v1';
+export const petition = "We ask the Holly Springs Town Council to hold a public review and recorded vote on ending routine town-controlled automated license plate reader (ALPR) collection and participation in shared ALPR databases, including the Vigilant/Motorola program identified by the town. End or decline renewal of relevant agreements as legally available and remove or deactivate town-controlled readers through an orderly process. While that decision is pending, freeze expansion and publish contracts, costs, retention rules, sharing agreements and nonconfidential audit findings, subject to lawful exemptions. Identify cameras operated by outside agencies or private entities separately and explain the town\u2019s authority over them. Preserve required evidence and accountability records during any transition.";
+export const priorPetition = petition;

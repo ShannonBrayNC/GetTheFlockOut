@@ -1,0 +1,57 @@
+{
+  "community": "Holly Springs, NC",
+  "reviewDate": "2026-11-06",
+  "sources": [
+    {
+      "type": "Town program statement",
+      "url": "https://www.hollyspringsnc.gov/m/newsflash/home/detail/1739",
+      "note": "Indexed official July 21 statement; direct URL returned 404 during review. Vendor and operator distinctions are central."
+    },
+    {
+      "type": "Official council roster",
+      "url": "https://hollyspringsnc.gov/143/Mayor-Town-Council",
+      "note": "Current elected officials and addresses verified; no individual policy endorsement inferred."
+    },
+    {
+      "type": "Official police page",
+      "url": "https://www.hollyspringsnc.gov/212/Police",
+      "note": "Chief and public-records request route."
+    },
+    {
+      "type": "Official staff directory",
+      "url": "https://hollyspringsnc.gov/m/directory",
+      "note": "Leadership roles verified; roles are not endorsements."
+    },
+    {
+      "type": "Local reporting",
+      "url": "https://www.hollyspringsupdate.com/p/holly-springs-nc-police-chief-details",
+      "note": "July 26 account of council briefing and outside-agency issue; not a substitute for legal review or agreements."
+    },
+    {
+      "type": "Community Reddit discussion",
+      "url": "https://www.reddit.com/r/HollySpringsNC/comments/1w02j9g/meeting_w_chief_smith_fv_pd_re_alpr/",
+      "note": "Cross-town dialogue; neighborhood ownership claims remain unverified."
+    },
+    {
+      "type": "Community organizing roundup",
+      "url": "https://www.reddit.com/r/DeFlockNC/comments/1xjs5a7/october_deflock_nc_update/",
+      "note": "Holly Springs named as an active effort; no independent chapter/petition roster established."
+    },
+    {
+      "type": "Official comment instructions",
+      "url": "https://www.hollyspringsnc.gov/2242/Submit-a-Public-Comment",
+      "note": "Check current deadlines and speaker procedures."
+    },
+    {
+      "type": "Official meeting archive",
+      "url": "https://www.hollyspringsnc.gov/2128/Agendas-Minutes-Videos",
+      "note": "Primary-record route for meeting verification."
+    }
+  ],
+  "limits": [
+    "Town vendor is Vigilant/Motorola, not an established municipal Flock program.",
+    "No confirmed standalone removal petition, cancellation, current inventory or current cost.",
+    "No affiliation with cited organizers.",
+    "Residency self-reported; 27540 and matching town required for mail."
+  ]
+}

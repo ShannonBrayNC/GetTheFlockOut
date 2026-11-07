@@ -1,0 +1,1 @@
+import {getChatGPTUser} from './chatgpt-auth';import Register from './register';export const dynamic='force-dynamic';export default async function Home(){return <Register signedIn={!!(await getChatGPTUser())}/>}

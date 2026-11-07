@@ -1,0 +1,4 @@
+export const version='2026-11-06-wake-forest-v1';
+export const consentVersion='2026-11-06-wake-forest-consent-v1';
+export const petition="We ask the Wake Forest Board of Commissioners to freeze Flock expansion, hold a dedicated public meeting with meaningful public comment, and take a recorded vote on ending town-funded Flock ALPR contracts and routine vehicle-location surveillance, as legally available. Publish executed agreements, costs, renewal dates, retention and sharing rules, search authorizations and nonconfidential audits. Identify plate readers, video cameras and other products separately, including any park or greenway systems. Distinguish town, county, state and private operators. Require a public vote before new ALPR agreements or expansion, compare less intrusive alternatives, and preserve required evidence and accountability records during any transition.";
+export const priorPetition=petition;

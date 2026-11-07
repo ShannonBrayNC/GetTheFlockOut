@@ -1,0 +1,100 @@
+{
+  "community": "Fuquay-Varina, NC",
+  "reviewDate": "2026-11-06",
+  "scope": "Research snapshot, not automated monitoring",
+  "sources": [
+    {
+      "id": "official-budget",
+      "type": "Primary budget",
+      "url": "https://www.fuquay-varina.org/DocumentCenter/View/9085/FY-2024-Adopted-Budget-Book-PDF",
+      "finding": "Printed page 94: named Flock initiative. Contradicts the assertion that it never appeared in an annual budget."
+    },
+    {
+      "id": "official-minutes",
+      "type": "Primary minutes",
+      "url": "https://www.fuquay-varina.org/AgendaCenter/ViewFile/Minutes/_09082026-582",
+      "finding": "September 8, 2026. Documents two Flock speakers; residential addresses deliberately not reproduced."
+    },
+    {
+      "id": "official-board",
+      "type": "Primary civic participation guidance",
+      "url": "https://www.fuquay-varina.org/317/Board-of-Commissioners",
+      "finding": "Current board and public-comment guidance. Confirm schedules before attending."
+    },
+    {
+      "id": "official-directory",
+      "type": "Primary official contact directory",
+      "url": "https://www.fuquay-varina.org/m/directory",
+      "finding": "Verified mayor and commissioner addresses. Current mayor William H. Harris differs from older budget rosters."
+    },
+    {
+      "id": "official-chief",
+      "type": "Primary police leadership",
+      "url": "https://www.fuquay-varina.org/1673/Office-of-the-Chief-of-Police",
+      "finding": "Chief Tim Smith verified. Do not infer every staff member\u2019s policy position."
+    },
+    {
+      "id": "official-alpr",
+      "type": "Primary program landing page",
+      "url": "https://www.fuquay-varina.org/1921/ALPR-Transparency-Portal",
+      "finding": "Town links vendor transparency portal. Vendor destination returned 403 during research; current settings not verified."
+    },
+    {
+      "id": "student-petition",
+      "type": "First-person advocacy petition",
+      "url": "https://www.ipetitions.com/p/stop-mass-surveillance-in-fuquay-varina/",
+      "finding": "Existing independent student campaign. Separate demands, signatures and organizers; no affiliation asserted."
+    },
+    {
+      "id": "organizer-chief",
+      "type": "First-person Reddit account",
+      "url": "https://www.reddit.com/r/FuquayVarinaNC/comments/1w02h4j/meeting_w_chief_smith_fv_pd_re_alpr/",
+      "finding": "Account of meeting with the chief; not the adopted policy."
+    },
+    {
+      "id": "organizer-update",
+      "type": "First-person Reddit organizing update",
+      "url": "https://www.reddit.com/r/DeFlockNC/comments/1x1n8hn/deflock_fuquayvarina_nc_update/",
+      "finding": "Repeated board engagement and an informal poll. No representative survey or official endorsements established."
+    },
+    {
+      "id": "november-transcript",
+      "type": "Secondary AI-generated transcript",
+      "url": "https://fuquayvarina.opennorthcarolina.org/meetings/2026-11-02-board-of-commissioners-regular-nov-2-2026-f47f4643-86f2-4a58-9672-06a4e2063916?t=480",
+      "finding": "Useful research lead, not a certified transcript; verify against official recording."
+    },
+    {
+      "id": "official-agendas",
+      "type": "Primary agenda index",
+      "url": "https://www.fuquay-varina.org/AgendaCenter/Board-of-Commissioners-2",
+      "finding": "November 2 agenda listed. Direct agenda PDF returned 403; do not infer its full contents from the index."
+    },
+    {
+      "id": "signage-lead",
+      "type": "Reddit research lead",
+      "url": "https://www.reddit.com/r/DeFlockNC/comments/1xm12zb/fuquayvarina_flockalpr_new_signage/",
+      "finding": "Reported new signage; not independently verified or presented as current official policy."
+    },
+    {
+      "id": "event-lead",
+      "type": "Reddit research lead",
+      "url": "https://www.reddit.com/r/FuquayVarinaNC/comments/1xmf4yi/deflock_america_night_did_happen_in_fuquay_varina/",
+      "finding": "Reported local DeFlock event; full thread could not be retrieved, so no detailed event claims published."
+    }
+  ],
+  "openQuestions": [
+    "Executed contract and amendments",
+    "Current inventory and actual invoice totals",
+    "Renewal and cancellation terms",
+    "Actual sharing settings and outside-agency authorizations",
+    "Retention exceptions and preservation counts",
+    "Audited case outcomes separated from alerts and searches",
+    "Representative resident views"
+  ],
+  "limits": [
+    "No claimed affiliation with original organizers",
+    "No imported signers or merged petition totals",
+    "No established cancellation",
+    "Residency is a declaration and consistency check, not address verification"
+  ]
+}

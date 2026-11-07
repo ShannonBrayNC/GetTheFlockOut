@@ -1,0 +1,39 @@
+{
+  "city": "Selma",
+  "county": "Johnston County",
+  "reviewed": "2026-11-06",
+  "status": "Citizen effort; no confirmed cancellation",
+  "sources": [
+    {
+      "url": "https://selma-nc.com/mayor-council/government/",
+      "limitation": "Current published elected-official contacts; older rosters conflict."
+    },
+    {
+      "url": "https://selma-nc.com/departments/police/",
+      "limitation": "Chief Justin Vause; no personal advocacy statement established."
+    },
+    {
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1t8mt8v/flock_cameras_in_johnston_county/",
+      "limitation": "Attributed resident account; spending not independently verified."
+    },
+    {
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1uymjge/flock_foia_requests_files_from_selma_and_johnston/",
+      "limitation": "Contributor records-sharing post; town and county separate."
+    },
+    {
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1wyqrc3/selma_trying_to_change_public_records_policy/",
+      "limitation": "Resident allegation; no adopted-policy or legal finding."
+    },
+    {
+      "url": "https://www.atlasofsurveillance.org/search.html?page=17&vendor=Flock+Safety",
+      "limitation": "Dated EFF inventory: 23 readers as of September 2025; not a live count."
+    }
+  ],
+  "openQuestions": [
+    "Executed current contract and renewals",
+    "Current inventory",
+    "Sharing and search authorization",
+    "Final records policy and full council roster"
+  ],
+  "affiliation": "Independent petition; no contributor endorsement implied."
+}

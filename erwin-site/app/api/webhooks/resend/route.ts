@@ -1,0 +1,1 @@
+import {acceptEvent} from '../../../webhook';export async function POST(r:Request){if(Number(r.headers.get('content-length'))>65536)return new Response('Too large',{status:413});const raw=await r.text();if(raw.length>65536)return new Response('Too large',{status:413});return acceptEvent(raw,r.headers)}

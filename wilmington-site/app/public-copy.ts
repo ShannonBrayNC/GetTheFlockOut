@@ -1,0 +1,4 @@
+export const version='2026-11-06-wilmington-v1';
+export const consentVersion='2026-11-06-wilmington-consent-v1';
+export const petition="We ask Wilmington City Council to hold a public review and recorded vote on preventing new city Flock ALPR deployment and ending routine city use of vehicle-location searches through other agencies or shared databases, as legally available. Disclose current direct and indirect ALPR access, agreements, costs, retention rules, search authorizations and nonconfidential audits. Require a public vote before any new ALPR agreement or expansion. Identify city, county, state and private systems separately, and distinguish the Axon/Fusus platform from Flock camera ownership. Preserve required evidence and accountability records during any transition.";
+export const priorPetition=petition;

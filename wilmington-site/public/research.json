@@ -1,0 +1,44 @@
+{
+  "community": "Wilmington, NC",
+  "reviewed": "2026-11-06",
+  "status": "Citizen effort documented. City Flock contract not established; county ALPR termination is separate.",
+  "limitations": [
+    "September reporting is a dated statement of WPD access, not a current executed-contract audit.",
+    "Council packet does not establish execution or enabled features.",
+    "Existing advocacy is not affiliation with this separate petition."
+  ],
+  "sources": [
+    {
+      "label": "campaign",
+      "url": "https://deflockilm.org/"
+    },
+    {
+      "label": "petition",
+      "url": "https://www.change.org/DeFlockILM"
+    },
+    {
+      "label": "chief",
+      "url": "https://www.whqr.org/local/2026-09-15/wilmington-police-chief-ryan-zuidema-on-his-first-year-leading-the-department"
+    },
+    {
+      "label": "county",
+      "url": "https://www.wect.com/2026/09/21/wect-investigates-status-new-hanover-countys-flock-contract-cameras/"
+    },
+    {
+      "label": "council",
+      "url": "https://www.wilmingtonnc.gov/Connect-With-Us/City-Mayor-Council"
+    },
+    {
+      "label": "police",
+      "url": "https://www.wilmingtonnc.gov/Public-Safety/Wilmington-Police-Department"
+    },
+    {
+      "label": "packet",
+      "url": "https://wilmington.granicus.com/MetaViewer.php?clip_id=6795&meta_id=263324&view_id=25"
+    },
+    {
+      "label": "map",
+      "url": "https://geohub.wilmingtonnc.gov/hosting/rest/services/cached/cache_general/MapServer"
+    }
+  ]
+}

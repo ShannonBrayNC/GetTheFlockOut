@@ -1,0 +1,50 @@
+{
+  "city": "Wake Forest",
+  "county": "Wake / Franklin counties",
+  "reviewed": "2026-11-06",
+  "status": "Citizen effort; no confirmed town cancellation",
+  "findings": [
+    {
+      "claim": "Town announced lease of 25 ALPR cameras activated September 28, 2023",
+      "url": "https://www.wakeforestnc.gov/news/automatic-license-plate-reading-cameras-help-wfpd-solve-reduce-prevent-crime",
+      "limit": "Dated town account, not a current inventory or retention policy."
+    },
+    {
+      "claim": "FY2025\u201326 final recommended budget: Police P-1 Flock (25), $75,000",
+      "url": "https://www.wakeforestnc.gov/sites/default/files/uploads/departments/finance/2025-26Budget/fy_25-26_final_recommended_budget_document.pdf",
+      "limit": "Recommended budget line, not proof of adopted appropriation, executed contract or payment."
+    },
+    {
+      "claim": "Jennifer Amyx public-comment subject includes surveillance and Flock",
+      "url": "https://www.wakeforestnc.gov/sites/default/files/uploads/meeting-summary/2-17-26_meetingnotes.pdf",
+      "limit": "Town summary explicitly is not official minutes; no full speech or board decision inferred."
+    },
+    {
+      "claim": "Tom Baker IV calls for dedicated Flock meeting",
+      "url": "https://wakeforestmatters.com/call-the-special-meeting-on-flock/",
+      "limit": "October7 opinion and advocacy proposal; no affiliation, endorsement or meeting outcome inferred."
+    },
+    {
+      "claim": "Greenway camera questions from residents",
+      "url": "https://www.reddit.com/r/WakeForestNC/comments/1u92xve/new_flock_cameras_on_the_dunn_creek_greenway/",
+      "limit": "Community discussion does not establish product, ownership or enabled features."
+    },
+    {
+      "claim": "Current mayor and five commissioners",
+      "url": "https://www.wakeforestnc.gov/board-commissioners/mayor-board-members",
+      "limit": "Official addresses only; inclusion does not imply support for Flock."
+    },
+    {
+      "claim": "Chief Julius Jefferson contact and appointment",
+      "url": "https://www.wakeforestnc.gov/news/julius-jefferson-named-permanent-wake-forest-police-chief",
+      "limit": "Permanent appointment June18,2025; no personal advocacy for original purchase established."
+    }
+  ],
+  "openQuestions": [
+    "Current contract, renewal and termination terms",
+    "Current inventory and enabled park/greenway products",
+    "Current retention and sharing settings",
+    "Audit results and dedicated meeting outcome"
+  ],
+  "affiliation": "Independent No More Flock petition; no import of others\u2019 signers or totals."
+}

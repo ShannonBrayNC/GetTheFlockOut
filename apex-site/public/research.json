@@ -1,0 +1,57 @@
+{
+  "community": "Apex, NC",
+  "reviewed": "2026-11-06",
+  "status": "Citizen effort documented; cancellation unverified",
+  "limitations": [
+    "No November 5 meeting outcome verified. Confirm next Flock agenda; sources differ on dates.",
+    "No independently confirmed Apex hack or misuse alleged here.",
+    "ZIP and residency declaration do not verify an address."
+  ],
+  "sources": [
+    {
+      "title": "Existing campaign",
+      "url": "https://www.deflockapex.org/",
+      "type": "advocacy"
+    },
+    {
+      "title": "Organizer updates",
+      "url": "https://www.deflockapex.org/updates",
+      "type": "advocacy"
+    },
+    {
+      "title": "Technical briefing",
+      "url": "https://apex-cameras.tech/",
+      "type": "independent research"
+    },
+    {
+      "title": "WRAL review coverage",
+      "url": "https://www.wral.com/news/local/apex-flock-cameras-meeting-august-2026/",
+      "type": "reporting"
+    },
+    {
+      "title": "Town council contacts",
+      "url": "https://www.apexnc.org/780/Meet-Your-Town-Council",
+      "type": "official"
+    },
+    {
+      "title": "Council meetings",
+      "url": "https://www.apexnc.org/150/Town-Council",
+      "type": "official"
+    },
+    {
+      "title": "Committee assignments",
+      "url": "https://www.apexnc.org/169/Council-Committees-Liaisons",
+      "type": "official"
+    },
+    {
+      "title": "Chief contact",
+      "url": "https://www.apexnc.org/313/Commendations-Complaints",
+      "type": "official"
+    },
+    {
+      "title": "ZIP codes and residency",
+      "url": "https://apexnc.org/686/Zip-Codes",
+      "type": "official"
+    }
+  ]
+}
